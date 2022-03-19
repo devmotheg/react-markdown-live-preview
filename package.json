@@ -9,7 +9,7 @@
     "start": "webpack serve --mode development"
   },
   "author": "Mohamed Muntasir",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2",
     "@types/react": "^17.0.39",
